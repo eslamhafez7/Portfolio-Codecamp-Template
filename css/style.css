@@ -1037,6 +1037,9 @@ textarea {
     header .right-header {
         padding: 0 1rem;
     }
+    header .left-header {
+        order: 2;
+    }
     .name {
         font-size: 2rem;
     }
