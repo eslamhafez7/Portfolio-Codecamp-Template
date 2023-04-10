@@ -1040,6 +1040,7 @@ textarea {
     }
     header .left-header {
         order: 2;
+        display: none;
     }
     .name {
         font-size: 2rem;
