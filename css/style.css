@@ -478,6 +478,7 @@ span.sketch {
     height: 300px;
     object-fit: cover;
     border-radius: 15px;
+    filter: opacity(0.5);
 }
 .portfolio-item .hover-item {
     position: absolute;
